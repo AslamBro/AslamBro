@@ -3,9 +3,13 @@
 ### <div align="center">Technologies I Use</div>
 
 <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732229.png" alt="iOS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite" width="50" height="50" />
