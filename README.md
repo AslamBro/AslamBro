@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="40" height="40" />
+  <img src="[https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png](https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png)" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="40" height="40" />
 </p>
