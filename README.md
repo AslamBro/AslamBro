@@ -8,10 +8,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite" width="50" height="50" />
 </div>
 
