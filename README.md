@@ -11,9 +11,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite" width="50" height="50" />
-  <img src="https://img.icons8.com/color/48/rest-api.png" alt="REST API" width="50" height="50"/>
 </div>
 
 
