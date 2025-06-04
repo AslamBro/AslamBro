@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'M Aslan Ibragimov</h1>
 
 - 👋 Hi, I’m @AslamBro
-- 👀 I’m interested in Mobile Developing
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Web Developing
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on IQTIDOR
 - 📫 How to reach me  
 - 😄 Pronouns: Uzbek
