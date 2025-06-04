@@ -1,7 +1,15 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
-![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) 
-![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
-![Dart](https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png)
+### Technologies I Use
+
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="40" height="40" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'M Aslan Ibragimov</h1>
 
