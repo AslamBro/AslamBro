@@ -13,9 +13,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite" width="50" height="50" />
 </div>
 
-#
-
-<h1 text-align="center">Follow me on social media</h1>
 
 <div align="center">
   <a href="https://instagram.com/ibragiimv" target="_blank">
