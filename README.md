@@ -3,12 +3,19 @@
 ### <div align="center">Technologies I Use</div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/rest-api.png" alt="REST API" width="50" height="50"/>
 </div>
+
 
 
 <h1 align="center">Hi 👋, I'M Aslan Ibragimov</h1>
