@@ -1,15 +1,21 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
-![Cool GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVqNDd2N2dxY2JlbXBxbzB3aGV3OW8zZGlpbXZkNWdhZmF0dWR6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif)
 
 <h1 align="center">Hi 👋, I'M Aslan Ibragimov</h1>
 
 - 👋 Hi, I’m @AslamBro
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on IQTIDOR
-- 📫 How to reach me  
+- 👀 I’m passionate about Web Development and Mobile Apps
+- 🌱 Currently learning Flutter & Dart for cross-platform development
+- 💻 Experienced with JavaScript (ES6+), TypeScript, React, Vite
+- ⚙️ Skilled in Node.js, Express, and RESTful API design
+- 🛢️ Working with databases: MySQL, PostgreSQL, MongoDB
+- 🐳 Familiar with Docker and containerization
+- ☁️ Exploring cloud services: AWS, Firebase
+- 🔧 Comfortable with Git, GitHub, and CI/CD pipelines
+- 💞️ Looking to collaborate on open-source projects and startups
+- 📫 How to reach me: [Your email or LinkedIn]
 - 😄 Pronouns: Uzbek
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Always learning and experimenting with new tech trends!
+
 
 <!---
 AslamBro/AslamBro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
